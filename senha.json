@@ -1,0 +1,18 @@
+{
+    "s": {
+        "login": "s",
+        "senha": "a"
+    },
+    "teste1": {
+        "login": "teste1",
+        "senha": "teste1"
+    },
+    "a": {
+        "login": "a",
+        "senha": "a"
+    },
+    "b": {
+        "login": "b",
+        "senha": "b"
+    }
+}
